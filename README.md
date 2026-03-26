@@ -1,84 +1,82 @@
-<h1 align="center">Hi 👋, I'm Anurag Pratap Singh</h1>
+# Anurag Pratap Singh
 
-<h3 align="center">🚀 AI/ML Engineer | Deep Learning | Computer Vision | NLP</h3>
+ [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/85078185/17c7d0ea-b76f-43d0-ac7a-80085a78864e/Anurag_AI_ML_Resume.pdf?AWSAccessKeyId=ASIA2F3EMEYERY5T3DC2&Signature=sD0p5YnDshaacpS10XtAcHmqFVo%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEPv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICyfrrKyMAuihgtOt%2FaD81rgxfKEtREyveiPYB3YDYewAiEA2lnImxc%2F9AdhuvEcUT0o4fQNlW%2FECpTVvUt9ew%2BVBAEq%2FAQIw%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARABGgw2OTk3NTMzMDk3MDUiDGHiuJGCoDKxPqkchCrQBH48J8tzx1GHQ2UUK6cZ7005mV%2BF9WAWzWDoK0LiIx%2BypERkSIvnh56Vq6xrbE19MQZXOmUkhPu4TYIg3LTOvO5FmTsWedmV60HFD320A99t8oJ4IGgSIMHYJ6yNN39vADNBBCxi94333o6IfKkUC3SSrsvsbd7SKQ%2BVT79x2kcNeg%2Bop8xmXtpQ6cjHd9MoayrhR3ve3HlbapkPCKx5XegBYWtr9YpfhpWIUbE3TpGiezmRTTInlXTdbmZmSPx7g1MpTxT5TUjRR8eQI1%2F4TqNEp4hFGs0MhIVlA0hjKScRMcCA5vMNj0t3KA7qsAXtfEY%2B1zuVS43jYtVoJoXCtxLr1sI4os4mxdcarX8dU5VmX4lXSqsyxKqWzYkFPsA9mLsXpIzVyujIoNDC28YQJAx9N3wfegEToGkim8KX9sdkhmwPP9OE8Iu2%2BVITgkAkzKj7iCmHg0wq8UxGK8mqjRTqmXGc9kJSGqsOfvUBsCFfMIxyaQprwi%2FOu3FK5iij00W8ozBXbHSvZ%2BVJGt757v0uIQPYhibi1NT3Xv%2B%2FpxkUgurcfgvcaS3WZyDXI4nMtvX9tbjoOpaB5whtS32cvxRYhuLY72%2FHrqPy4U%2BUKOk8qN8lV42vS8vcWvdrDv9rNBxTJKiq%2F3GU3lnHWXwJXH3w54RrpaLdVuP41MUb9JEpG5MZTEGblH%2BbJtWStGEJPSztqlpMjS7UBh2okI6n4i2OXgOGLZNO7LQDF5YTEGvbyAJ01k%2Bb80oaYiyfUjzvbXHj6OPCOnMAxvIFyfKHlJcw%2BY%2BUzgY6mAEHuST7O5o3AMu9pqMTap%2FF0qjDRfFDImnDTpBA7vriqTNxw4bG7Y0H%2BjZ7ezUlD%2BSXFNt%2Fn2niXiheDhYVJxBQ5olRSr5vt3M8fuSlaqGCeBWAcIOqXikBQvzJR1nb49Y6pHyzffAe%2F6cxGLivf6cBsSfrsHh0NCmblmJnV0pzveECNMOCTYjimCLRK9aMrRgeBmNGcDgzGg%3D%3D&Expires=1774521091)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%26+ML+Engineer;Deep+Learning+Researcher;Computer+Vision+Developer;Building+Real-World+AI+Systems&center=true&width=500&height=45">
-</p>
+## 👋 Hi, I'm Anurag!
 
----
+B.Tech CSE (AI & ML) student at **Galgotias University** (2023–2027), passionate about turning cutting-edge research into real-world impact. Currently spearheading **Autism Detection** using CNNs, Vision Transformers, and ensembles—achieving **99.07% accuracy** with zero false negatives. Exploring AWS Bedrock & Amazon Q for cloud-native AI. [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/85078185/17c7d0ea-b76f-43d0-ac7a-80085a78864e/Anurag_AI_ML_Resume.pdf?AWSAccessKeyId=ASIA2F3EMEYERY5T3DC2&Signature=sD0p5YnDshaacpS10XtAcHmqFVo%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEPv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICyfrrKyMAuihgtOt%2FaD81rgxfKEtREyveiPYB3YDYewAiEA2lnImxc%2F9AdhuvEcUT0o4fQNlW%2FECpTVvUt9ew%2BVBAEq%2FAQIw%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARABGgw2OTk3NTMzMDk3MDUiDGHiuJGCoDKxPqkchCrQBH48J8tzx1GHQ2UUK6cZ7005mV%2BF9WAWzWDoK0LiIx%2BypERkSIvnh56Vq6xrbE19MQZXOmUkhPu4TYIg3LTOvO5FmTsWedmV60HFD320A99t8oJ4IGgSIMHYJ6yNN39vADNBBCxi94333o6IfKkUC3SSrsvsbd7SKQ%2BVT79x2kcNeg%2Bop8xmXtpQ6cjHd9MoayrhR3ve3HlbapkPCKx5XegBYWtr9YpfhpWIUbE3TpGiezmRTTInlXTdbmZmSPx7g1MpTxT5TUjRR8eQI1%2F4TqNEp4hFGs0MhIVlA0hjKScRMcCA5vMNj0t3KA7qsAXtfEY%2B1zuVS43jYtVoJoXCtxLr1sI4os4mxdcarX8dU5VmX4lXSqsyxKqWzYkFPsA9mLsXpIzVyujIoNDC28YQJAx9N3wfegEToGkim8KX9sdkhmwPP9OE8Iu2%2BVITgkAkzKj7iCmHg0wq8UxGK8mqjRTqmXGc9kJSGqsOfvUBsCFfMIxyaQprwi%2FOu3FK5iij00W8ozBXbHSvZ%2BVJGt757v0uIQPYhibi1NT3Xv%2B%2FpxkUgurcfgvcaS3WZyDXI4nMtvX9tbjoOpaB5whtS32cvxRYhuLY72%2FHrqPy4U%2BUKOk8qN8lV42vS8vcWvdrDv9rNBxTJKiq%2F3GU3lnHWXwJXH3w54RrpaLdVuP41MUb9JEpG5MZTEGblH%2BbJtWStGEJPSztqlpMjS7UBh2okI6n4i2OXgOGLZNO7LQDF5YTEGvbyAJ01k%2Bb80oaYiyfUjzvbXHj6OPCOnMAxvIFyfKHlJcw%2BY%2BUzgY6mAEHuST7O5o3AMu9pqMTap%2FF0qjDRfFDImnDTpBA7vriqTNxw4bG7Y0H%2BjZ7ezUlD%2BSXFNt%2Fn2niXiheDhYVJxBQ5olRSr5vt3M8fuSlaqGCeBWAcIOqXikBQvzJR1nb49Y6pHyzffAe%2F6cxGLivf6cBsSfrsHh0NCmblmJnV0pzveECNMOCTYjimCLRK9aMrRgeBmNGcDgzGg%3D%3D&Expires=1774521091)
 
-## 🧠 About Me
+- 🔬 Research: Ensemble models with Grad-CAM interpretability on 8,600+ image datasets.
+- 💼 Seeking: AI/ML Engineer or Data roles to build scalable systems.
+- 📍 Delhi-NCR | 📧 anuragpsingh3135@gmail.com  [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/85078185/17c7d0ea-b76f-43d0-ac7a-80085a78864e/Anurag_AI_ML_Resume.pdf?AWSAccessKeyId=ASIA2F3EMEYERY5T3DC2&Signature=sD0p5YnDshaacpS10XtAcHmqFVo%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEPv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICyfrrKyMAuihgtOt%2FaD81rgxfKEtREyveiPYB3YDYewAiEA2lnImxc%2F9AdhuvEcUT0o4fQNlW%2FECpTVvUt9ew%2BVBAEq%2FAQIw%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARABGgw2OTk3NTMzMDk3MDUiDGHiuJGCoDKxPqkchCrQBH48J8tzx1GHQ2UUK6cZ7005mV%2BF9WAWzWDoK0LiIx%2BypERkSIvnh56Vq6xrbE19MQZXOmUkhPu4TYIg3LTOvO5FmTsWedmV60HFD320A99t8oJ4IGgSIMHYJ6yNN39vADNBBCxi94333o6IfKkUC3SSrsvsbd7SKQ%2BVT79x2kcNeg%2Bop8xmXtpQ6cjHd9MoayrhR3ve3HlbapkPCKx5XegBYWtr9YpfhpWIUbE3TpGiezmRTTInlXTdbmZmSPx7g1MpTxT5TUjRR8eQI1%2F4TqNEp4hFGs0MhIVlA0hjKScRMcCA5vMNj0t3KA7qsAXtfEY%2B1zuVS43jYtVoJoXCtxLr1sI4os4mxdcarX8dU5VmX4lXSqsyxKqWzYkFPsA9mLsXpIzVyujIoNDC28YQJAx9N3wfegEToGkim8KX9sdkhmwPP9OE8Iu2%2BVITgkAkzKj7iCmHg0wq8UxGK8mqjRTqmXGc9kJSGqsOfvUBsCFfMIxyaQprwi%2FOu3FK5iij00W8ozBXbHSvZ%2BVJGt757v0uIQPYhibi1NT3Xv%2B%2FpxkUgurcfgvcaS3WZyDXI4nMtvX9tbjoOpaB5whtS32cvxRYhuLY72%2FHrqPy4U%2BUKOk8qN8lV42vS8vcWvdrDv9rNBxTJKiq%2F3GU3lnHWXwJXH3w54RrpaLdVuP41MUb9JEpG5MZTEGblH%2BbJtWStGEJPSztqlpMjS7UBh2okI6n4i2OXgOGLZNO7LQDF5YTEGvbyAJ01k%2Bb80oaYiyfUjzvbXHj6OPCOnMAxvIFyfKHlJcw%2BY%2BUzgY6mAEHuST7O5o3AMu9pqMTap%2FF0qjDRfFDImnDTpBA7vriqTNxw4bG7Y0H%2BjZ7ezUlD%2BSXFNt%2Fn2niXiheDhYVJxBQ5olRSr5vt3M8fuSlaqGCeBWAcIOqXikBQvzJR1nb49Y6pHyzffAe%2F6cxGLivf6cBsSfrsHh0NCmblmJnV0pzveECNMOCTYjimCLRK9aMrRgeBmNGcDgzGg%3D%3D&Expires=1774521091)
 
-- 🎓 B.Tech CSE (AI & ML) @ Galgotias University (2023–2027)  
-- 🔬 Researching **Autism Detection (CNN + Vision Transformers + Ensemble)**  
-- ☁️ Exploring **AWS AI & Cloud (Bedrock, Amazon Q)**  
-- 💡 Focused on building **scalable AI solutions**  
-
----
+<img src="https://img.shields.io/badge/🌟%20Open%20to%20Collaborations-brightgreen" alt="Open to Collabs"/> <img src="https://img.shields.io/badge/🚀%20Portfolio-Projects-blue" alt="Projects"/> <img src="https://img.shields.io/badge/💻%20LeetCode-Contest%20Ready-orange" alt="LeetCode"/>
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,c,mysql,tensorflow,pytorch,opencv,git,github,aws" />
-</p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,mediapipe,scikit-learn,numpy,pandas,aws,git,github,mysql,sql,js,java,c" width="400"/>
+</p> [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/85078185/17c7d0ea-b76f-43d0-ac7a-80085a78864e/Anurag_AI_ML_Resume.pdf?AWSAccessKeyId=ASIA2F3EMEYERY5T3DC2&Signature=sD0p5YnDshaacpS10XtAcHmqFVo%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEPv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICyfrrKyMAuihgtOt%2FaD81rgxfKEtREyveiPYB3YDYewAiEA2lnImxc%2F9AdhuvEcUT0o4fQNlW%2FECpTVvUt9ew%2BVBAEq%2FAQIw%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARABGgw2OTk3NTMzMDk3MDUiDGHiuJGCoDKxPqkchCrQBH48J8tzx1GHQ2UUK6cZ7005mV%2BF9WAWzWDoK0LiIx%2BypERkSIvnh56Vq6xrbE19MQZXOmUkhPu4TYIg3LTOvO5FmTsWedmV60HFD320A99t8oJ4IGgSIMHYJ6yNN39vADNBBCxi94333o6IfKkUC3SSrsvsbd7SKQ%2BVT79x2kcNeg%2Bop8xmXtpQ6cjHd9MoayrhR3ve3HlbapkPCKx5XegBYWtr9YpfhpWIUbE3TpGiezmRTTInlXTdbmZmSPx7g1MpTxT5TUjRR8eQI1%2F4TqNEp4hFGs0MhIVlA0hjKScRMcCA5vMNj0t3KA7qsAXtfEY%2B1zuVS43jYtVoJoXCtxLr1sI4os4mxdcarX8dU5VmX4lXSqsyxKqWzYkFPsA9mLsXpIzVyujIoNDC28YQJAx9N3wfegEToGkim8KX9sdkhmwPP9OE8Iu2%2BVITgkAkzKj7iCmHg0wq8UxGK8mqjRTqmXGc9kJSGqsOfvUBsCFfMIxyaQprwi%2FOu3FK5iij00W8ozBXbHSvZ%2BVJGt757v0uIQPYhibi1NT3Xv%2B%2FpxkUgurcfgvcaS3WZyDXI4nMtvX9tbjoOpaB5whtS32cvxRYhuLY72%2FHrqPy4U%2BUKOk8qN8lV42vS8vcWvdrDv9rNBxTJKiq%2F3GU3lnHWXwJXH3w54RrpaLdVuP41MUb9JEpG5MZTEGblH%2BbJtWStGEJPSztqlpMjS7UBh2okI6n4i2OXgOGLZNO7LQDF5YTEGvbyAJ01k%2Bb80oaYiyfUjzvbXHj6OPCOnMAxvIFyfKHlJcw%2BY%2BUzgY6mAEHuST7O5o3AMu9pqMTap%2FF0qjDRfFDImnDTpBA7vriqTNxw4bG7Y0H%2BjZ7ezUlD%2BSXFNt%2Fn2niXiheDhYVJxBQ5olRSr5vt3M8fuSlaqGCeBWAcIOqXikBQvzJR1nb49Y6pHyzffAe%2F6cxGLivf6cBsSfrsHh0NCmblmJnV0pzveECNMOCTYjimCLRK9aMrRgeBmNGcDgzGg%3D%3D&Expires=1774521091)
 
----
+## 🔥 Featured Projects
 
-## 🚀 Featured Projects
+| Project | Description | Tech & Metrics | GitHub |
+|---------|-------------|----------------|--------|
+| **Autism Detection** | CNN/ViT ensemble for clinical-grade diagnosis | PyTorch, Grad-CAM \| 99.07% Acc, AUC 0.9995 | [Repo](https://github.com/Anurag7321-singh/Autism-Detection-CNN-VIT-Research)  [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/85078185/17c7d0ea-b76f-43d0-ac7a-80085a78864e/Anurag_AI_ML_Resume.pdf?AWSAccessKeyId=ASIA2F3EMEYERY5T3DC2&Signature=sD0p5YnDshaacpS10XtAcHmqFVo%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEPv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICyfrrKyMAuihgtOt%2FaD81rgxfKEtREyveiPYB3YDYewAiEA2lnImxc%2F9AdhuvEcUT0o4fQNlW%2FECpTVvUt9ew%2BVBAEq%2FAQIw%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARABGgw2OTk3NTMzMDk3MDUiDGHiuJGCoDKxPqkchCrQBH48J8tzx1GHQ2UUK6cZ7005mV%2BF9WAWzWDoK0LiIx%2BypERkSIvnh56Vq6xrbE19MQZXOmUkhPu4TYIg3LTOvO5FmTsWedmV60HFD320A99t8oJ4IGgSIMHYJ6yNN39vADNBBCxi94333o6IfKkUC3SSrsvsbd7SKQ%2BVT79x2kcNeg%2Bop8xmXtpQ6cjHd9MoayrhR3ve3HlbapkPCKx5XegBYWtr9YpfhpWIUbE3TpGiezmRTTInlXTdbmZmSPx7g1MpTxT5TUjRR8eQI1%2F4TqNEp4hFGs0MhIVlA0hjKScRMcCA5vMNj0t3KA7qsAXtfEY%2B1zuVS43jYtVoJoXCtxLr1sI4os4mxdcarX8dU5VmX4lXSqsyxKqWzYkFPsA9mLsXpIzVyujIoNDC28YQJAx9N3wfegEToGkim8KX9sdkhmwPP9OE8Iu2%2BVITgkAkzKj7iCmHg0wq8UxGK8mqjRTqmXGc9kJSGqsOfvUBsCFfMIxyaQprwi%2FOu3FK5iij00W8ozBXbHSvZ%2BVJGt757v0uIQPYhibi1NT3Xv%2B%2FpxkUgurcfgvcaS3WZyDXI4nMtvX9tbjoOpaB5whtS32cvxRYhuLY72%2FHrqPy4U%2BUKOk8qN8lV42vS8vcWvdrDv9rNBxTJKiq%2F3GU3lnHWXwJXH3w54RrpaLdVuP41MUb9JEpG5MZTEGblH%2BbJtWStGEJPSztqlpMjS7UBh2okI6n4i2OXgOGLZNO7LQDF5YTEGvbyAJ01k%2Bb80oaYiyfUjzvbXHj6OPCOnMAxvIFyfKHlJcw%2BY%2BUzgY6mAEHuST7O5o3AMu9pqMTap%2FF0qjDRfFDImnDTpBA7vriqTNxw4bG7Y0H%2BjZ7ezUlD%2BSXFNt%2Fn2niXiheDhYVJxBQ5olRSr5vt3M8fuSlaqGCeBWAcIOqXikBQvzJR1nb49Y6pHyzffAe%2F6cxGLivf6cBsSfrsHh0NCmblmJnV0pzveECNMOCTYjimCLRK9aMrRgeBmNGcDgzGg%3D%3D&Expires=1774521091) |
+| **AI Virtual Painter** | Real-time air gesture drawing | OpenCV, MediaPipe \| 30 FPS | [Repo](https://github.com/Anurag7321-singh/ai-virtualpainter)  [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/85078185/17c7d0ea-b76f-43d0-ac7a-80085a78864e/Anurag_AI_ML_Resume.pdf?AWSAccessKeyId=ASIA2F3EMEYERY5T3DC2&Signature=sD0p5YnDshaacpS10XtAcHmqFVo%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEPv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICyfrrKyMAuihgtOt%2FaD81rgxfKEtREyveiPYB3YDYewAiEA2lnImxc%2F9AdhuvEcUT0o4fQNlW%2FECpTVvUt9ew%2BVBAEq%2FAQIw%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARABGgw2OTk3NTMzMDk3MDUiDGHiuJGCoDKxPqkchCrQBH48J8tzx1GHQ2UUK6cZ7005mV%2BF9WAWzWDoK0LiIx%2BypERkSIvnh56Vq6xrbE19MQZXOmUkhPu4TYIg3LTOvO5FmTsWedmV60HFD320A99t8oJ4IGgSIMHYJ6yNN39vADNBBCxi94333o6IfKkUC3SSrsvsbd7SKQ%2BVT79x2kcNeg%2Bop8xmXtpQ6cjHd9MoayrhR3ve3HlbapkPCKx5XegBYWtr9YpfhpWIUbE3TpGiezmRTTInlXTdbmZmSPx7g1MpTxT5TUjRR8eQI1%2F4TqNEp4hFGs0MhIVlA0hjKScRMcCA5vMNj0t3KA7qsAXtfEY%2B1zuVS43jYtVoJoXCtxLr1sI4os4mxdcarX8dU5VmX4lXSqsyxKqWzYkFPsA9mLsXpIzVyujIoNDC28YQJAx9N3wfegEToGkim8KX9sdkhmwPP9OE8Iu2%2BVITgkAkzKj7iCmHg0wq8UxGK8mqjRTqmXGc9kJSGqsOfvUBsCFfMIxyaQprwi%2FOu3FK5iij00W8ozBXbHSvZ%2BVJGt757v0uIQPYhibi1NT3Xv%2B%2FpxkUgurcfgvcaS3WZyDXI4nMtvX9tbjoOpaB5whtS32cvxRYhuLY72%2FHrqPy4U%2BUKOk8qN8lV42vS8vcWvdrDv9rNBxTJKiq%2F3GU3lnHWXwJXH3w54RrpaLdVuP41MUb9JEpG5MZTEGblH%2BbJtWStGEJPSztqlpMjS7UBh2okI6n4i2OXgOGLZNO7LQDF5YTEGvbyAJ01k%2Bb80oaYiyfUjzvbXHj6OPCOnMAxvIFyfKHlJcw%2BY%2BUzgY6mAEHuST7O5o3AMu9pqMTap%2FF0qjDRfFDImnDTpBA7vriqTNxw4bG7Y0H%2BjZ7ezUlD%2BSXFNt%2Fn2niXiheDhYVJxBQ5olRSr5vt3M8fuSlaqGCeBWAcIOqXikBQvzJR1nb49Y6pHyzffAe%2F6cxGLivf6cBsSfrsHh0NCmblmJnV0pzveECNMOCTYjimCLRK9aMrRgeBmNGcDgzGg%3D%3D&Expires=1774521091) |
+| **Image Captioning** | CNN-LSTM for descriptive captions | Deep Learning \| BLEU 0.61 | [Repo](https://github.com/Anurag7321-singh/Image-Captioning)  [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/85078185/17c7d0ea-b76f-43d0-ac7a-80085a78864e/Anurag_AI_ML_Resume.pdf?AWSAccessKeyId=ASIA2F3EMEYERY5T3DC2&Signature=sD0p5YnDshaacpS10XtAcHmqFVo%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEPv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICyfrrKyMAuihgtOt%2FaD81rgxfKEtREyveiPYB3YDYewAiEA2lnImxc%2F9AdhuvEcUT0o4fQNlW%2FECpTVvUt9ew%2BVBAEq%2FAQIw%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARABGgw2OTk3NTMzMDk3MDUiDGHiuJGCoDKxPqkchCrQBH48J8tzx1GHQ2UUK6cZ7005mV%2BF9WAWzWDoK0LiIx%2BypERkSIvnh56Vq6xrbE19MQZXOmUkhPu4TYIg3LTOvO5FmTsWedmV60HFD320A99t8oJ4IGgSIMHYJ6yNN39vADNBBCxi94333o6IfKkUC3SSrsvsbd7SKQ%2BVT79x2kcNeg%2Bop8xmXtpQ6cjHd9MoayrhR3ve3HlbapkPCKx5XegBYWtr9YpfhpWIUbE3TpGiezmRTTInlXTdbmZmSPx7g1MpTxT5TUjRR8eQI1%2F4TqNEp4hFGs0MhIVlA0hjKScRMcCA5vMNj0t3KA7qsAXtfEY%2B1zuVS43jYtVoJoXCtxLr1sI4os4mxdcarX8dU5VmX4lXSqsyxKqWzYkFPsA9mLsXpIzVyujIoNDC28YQJAx9N3wfegEToGkim8KX9sdkhmwPP9OE8Iu2%2BVITgkAkzKj7iCmHg0wq8UxGK8mqjRTqmXGc9kJSGqsOfvUBsCFfMIxyaQprwi%2FOu3FK5iij00W8ozBXbHSvZ%2BVJGt757v0uIQPYhibi1NT3Xv%2B%2FpxkUgurcfgvcaS3WZyDXI4nMtvX9tbjoOpaB5whtS32cvxRYhuLY72%2FHrqPy4U%2BUKOk8qN8lV42vS8vcWvdrDv9rNBxTJKiq%2F3GU3lnHWXwJXH3w54RrpaLdVuP41MUb9JEpG5MZTEGblH%2BbJtWStGEJPSztqlpMjS7UBh2okI6n4i2OXgOGLZNO7LQDF5YTEGvbyAJ01k%2Bb80oaYiyfUjzvbXHj6OPCOnMAxvIFyfKHlJcw%2BY%2BUzgY6mAEHuST7O5o3AMu9pqMTap%2FF0qjDRfFDImnDTpBA7vriqTNxw4bG7Y0H%2BjZ7ezUlD%2BSXFNt%2Fn2niXiheDhYVJxBQ5olRSr5vt3M8fuSlaqGCeBWAcIOqXikBQvzJR1nb49Y6pHyzffAe%2F6cxGLivf6cBsSfrsHh0NCmblmJnV0pzveECNMOCTYjimCLRK9aMrRgeBmNGcDgzGg%3D%3D&Expires=1774521091) |
+| **Face Detection** | Real-time recognition system | OpenCV \| 95% Acc | [Repo](https://github.com/Anurag7321-singh/Face-Detection-and-Recognition)  [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/85078185/17c7d0ea-b76f-43d0-ac7a-80085a78864e/Anurag_AI_ML_Resume.pdf?AWSAccessKeyId=ASIA2F3EMEYERY5T3DC2&Signature=sD0p5YnDshaacpS10XtAcHmqFVo%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEPv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICyfrrKyMAuihgtOt%2FaD81rgxfKEtREyveiPYB3YDYewAiEA2lnImxc%2F9AdhuvEcUT0o4fQNlW%2FECpTVvUt9ew%2BVBAEq%2FAQIw%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARABGgw2OTk3NTMzMDk3MDUiDGHiuJGCoDKxPqkchCrQBH48J8tzx1GHQ2UUK6cZ7005mV%2BF9WAWzWDoK0LiIx%2BypERkSIvnh56Vq6xrbE19MQZXOmUkhPu4TYIg3LTOvO5FmTsWedmV60HFD320A99t8oJ4IGgSIMHYJ6yNN39vADNBBCxi94333o6IfKkUC3SSrsvsbd7SKQ%2BVT79x2kcNeg%2Bop8xmXtpQ6cjHd9MoayrhR3ve3HlbapkPCKx5XegBYWtr9YpfhpWIUbE3TpGiezmRTTInlXTdbmZmSPx7g1MpTxT5TUjRR8eQI1%2F4TqNEp4hFGs0MhIVlA0hjKScRMcCA5vMNj0t3KA7qsAXtfEY%2B1zuVS43jYtVoJoXCtxLr1sI4os4mxdcarX8dU5VmX4lXSqsyxKqWzYkFPsA9mLsXpIzVyujIoNDC28YQJAx9N3wfegEToGkim8KX9sdkhmwPP9OE8Iu2%2BVITgkAkzKj7iCmHg0wq8UxGK8mqjRTqmXGc9kJSGqsOfvUBsCFfMIxyaQprwi%2FOu3FK5iij00W8ozBXbHSvZ%2BVJGt757v0uIQPYhibi1NT3Xv%2B%2FpxkUgurcfgvcaS3WZyDXI4nMtvX9tbjoOpaB5whtS32cvxRYhuLY72%2FHrqPy4U%2BUKOk8qN8lV42vS8vcWvdrDv9rNBxTJKiq%2F3GU3lnHWXwJXH3w54RrpaLdVuP41MUb9JEpG5MZTEGblH%2BbJtWStGEJPSztqlpMjS7UBh2okI6n4i2OXgOGLZNO7LQDF5YTEGvbyAJ01k%2Bb80oaYiyfUjzvbXHj6OPCOnMAxvIFyfKHlJcw%2BY%2BUzgY6mAEHuST7O5o3AMu9pqMTap%2FF0qjDRfFDImnDTpBA7vriqTNxw4bG7Y0H%2BjZ7ezUlD%2BSXFNt%2Fn2niXiheDhYVJxBQ5olRSr5vt3M8fuSlaqGCeBWAcIOqXikBQvzJR1nb49Y6pHyzffAe%2F6cxGLivf6cBsSfrsHh0NCmblmJnV0pzveECNMOCTYjimCLRK9aMrRgeBmNGcDgzGg%3D%3D&Expires=1774521091) |
+| **EV Demand Prediction** | Regression forecasting | ML \| R² 0.87, RMSE 3.42 | [Repo](https://github.com/Anurag7321-singh/EV-Charging-Prediction-Model)  [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/85078185/17c7d0ea-b76f-43d0-ac7a-80085a78864e/Anurag_AI_ML_Resume.pdf?AWSAccessKeyId=ASIA2F3EMEYERY5T3DC2&Signature=sD0p5YnDshaacpS10XtAcHmqFVo%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEPv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICyfrrKyMAuihgtOt%2FaD81rgxfKEtREyveiPYB3YDYewAiEA2lnImxc%2F9AdhuvEcUT0o4fQNlW%2FECpTVvUt9ew%2BVBAEq%2FAQIw%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARABGgw2OTk3NTMzMDk3MDUiDGHiuJGCoDKxPqkchCrQBH48J8tzx1GHQ2UUK6cZ7005mV%2BF9WAWzWDoK0LiIx%2BypERkSIvnh56Vq6xrbE19MQZXOmUkhPu4TYIg3LTOvO5FmTsWedmV60HFD320A99t8oJ4IGgSIMHYJ6yNN39vADNBBCxi94333o6IfKkUC3SSrsvsbd7SKQ%2BVT79x2kcNeg%2Bop8xmXtpQ6cjHd9MoayrhR3ve3HlbapkPCKx5XegBYWtr9YpfhpWIUbE3TpGiezmRTTInlXTdbmZmSPx7g1MpTxT5TUjRR8eQI1%2F4TqNEp4hFGs0MhIVlA0hjKScRMcCA5vMNj0t3KA7qsAXtfEY%2B1zuVS43jYtVoJoXCtxLr1sI4os4mxdcarX8dU5VmX4lXSqsyxKqWzYkFPsA9mLsXpIzVyujIoNDC28YQJAx9N3wfegEToGkim8KX9sdkhmwPP9OE8Iu2%2BVITgkAkzKj7iCmHg0wq8UxGK8mqjRTqmXGc9kJSGqsOfvUBsCFfMIxyaQprwi%2FOu3FK5iij00W8ozBXbHSvZ%2BVJGt757v0uIQPYhibi1NT3Xv%2B%2FpxkUgurcfgvcaS3WZyDXI4nMtvX9tbjoOpaB5whtS32cvxRYhuLY72%2FHrqPy4U%2BUKOk8qN8lV42vS8vcWvdrDv9rNBxTJKiq%2F3GU3lnHWXwJXH3w54RrpaLdVuP41MUb9JEpG5MZTEGblH%2BbJtWStGEJPSztqlpMjS7UBh2okI6n4i2OXgOGLZNO7LQDF5YTEGvbyAJ01k%2Bb80oaYiyfUjzvbXHj6OPCOnMAxvIFyfKHlJcw%2BY%2BUzgY6mAEHuST7O5o3AMu9pqMTap%2FF0qjDRfFDImnDTpBA7vriqTNxw4bG7Y0H%2BjZ7ezUlD%2BSXFNt%2Fn2niXiheDhYVJxBQ5olRSr5vt3M8fuSlaqGCeBWAcIOqXikBQvzJR1nb49Y6pHyzffAe%2F6cxGLivf6cBsSfrsHh0NCmblmJnV0pzveECNMOCTYjimCLRK9aMrRgeBmNGcDgzGg%3D%3D&Expires=1774521091) |
 
-🔹 **AI Virtual Painter** – Real-time gesture drawing (30 FPS)  
-🔹 **Image Captioning** – CNN + LSTM (BLEU: 0.61)  
-🔹 **Face Detection System** – 95% accuracy  
-🔹 **EV Demand Prediction** – R²: 0.87  
-🔹 **Recommendation System** – Collaborative filtering  
+👉 **Full Portfolio**: [github.com/Anurag7321-singh](https://github.com/Anurag7321-singh) [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/85078185/17c7d0ea-b76f-43d0-ac7a-80085a78864e/Anurag_AI_ML_Resume.pdf?AWSAccessKeyId=ASIA2F3EMEYERY5T3DC2&Signature=sD0p5YnDshaacpS10XtAcHmqFVo%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEPv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICyfrrKyMAuihgtOt%2FaD81rgxfKEtREyveiPYB3YDYewAiEA2lnImxc%2F9AdhuvEcUT0o4fQNlW%2FECpTVvUt9ew%2BVBAEq%2FAQIw%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARABGgw2OTk3NTMzMDk3MDUiDGHiuJGCoDKxPqkchCrQBH48J8tzx1GHQ2UUK6cZ7005mV%2BF9WAWzWDoK0LiIx%2BypERkSIvnh56Vq6xrbE19MQZXOmUkhPu4TYIg3LTOvO5FmTsWedmV60HFD320A99t8oJ4IGgSIMHYJ6yNN39vADNBBCxi94333o6IfKkUC3SSrsvsbd7SKQ%2BVT79x2kcNeg%2Bop8xmXtpQ6cjHd9MoayrhR3ve3HlbapkPCKx5XegBYWtr9YpfhpWIUbE3TpGiezmRTTInlXTdbmZmSPx7g1MpTxT5TUjRR8eQI1%2F4TqNEp4hFGs0MhIVlA0hjKScRMcCA5vMNj0t3KA7qsAXtfEY%2B1zuVS43jYtVoJoXCtxLr1sI4os4mxdcarX8dU5VmX4lXSqsyxKqWzYkFPsA9mLsXpIzVyujIoNDC28YQJAx9N3wfegEToGkim8KX9sdkhmwPP9OE8Iu2%2BVITgkAkzKj7iCmHg0wq8UxGK8mqjRTqmXGc9kJSGqsOfvUBsCFfMIxyaQprwi%2FOu3FK5iij00W8ozBXbHSvZ%2BVJGt757v0uIQPYhibi1NT3Xv%2B%2FpxkUgurcfgvcaS3WZyDXI4nMtvX9tbjoOpaB5whtS32cvxRYhuLY72%2FHrqPy4U%2BUKOk8qN8lV42vS8vcWvdrDv9rNBxTJKiq%2F3GU3lnHWXwJXH3w54RrpaLdVuP41MUb9JEpG5MZTEGblH%2BbJtWStGEJPSztqlpMjS7UBh2okI6n4i2OXgOGLZNO7LQDF5YTEGvbyAJ01k%2Bb80oaYiyfUjzvbXHj6OPCOnMAxvIFyfKHlJcw%2BY%2BUzgY6mAEHuST7O5o3AMu9pqMTap%2FF0qjDRfFDImnDTpBA7vriqTNxw4bG7Y0H%2BjZ7ezUlD%2BSXFNt%2Fn2niXiheDhYVJxBQ5olRSr5vt3M8fuSlaqGCeBWAcIOqXikBQvzJR1nb49Y6pHyzffAe%2F6cxGLivf6cBsSfrsHh0NCmblmJnV0pzveECNMOCTYjimCLRK9aMrRgeBmNGcDgzGg%3D%3D&Expires=1774521091)
 
-👉 Explore all:  
-🔗 https://github.com/Anurag7321-singh  
-
----
-
-## 📊 GitHub Analytics
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anurag7321-singh&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=Anurag7321-singh&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anurag7321-singh&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag7321-singh&theme=radical&hide_border=true" width="38%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag7321-singh&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag7321-singh&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
 
----
+## 🏅 Certifications
 
-## 🧠 LeetCode Stats
+<img src="https://img.shields.io/badge/AWS_AI_Cloud-Bedrock%20%26%20Q-blueviolet" alt="AWS"/> 
+<img src="https://img.shields.io/badge/Microsoft-GenAI%20Data%20Science-blue" alt="MS GenAI"/> 
+<img src="https://img.shields.io/badge/IBM-Prompt%20Engineering-orange" alt="IBM"/> 
+<img src="https://img.shields.io/badge/Oracle-Database%20Design-green" alt="Oracle"/> 
+<img src="https://img.shields.io/badge/Deloitte-Tech%20Simulation-silver" alt="Deloitte"/>
+
+- Deloitte Technology Simulations
+- Quantum Computing (C-DAC)
+- GenAI Powered Data Analytics (Tata Forage) [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/85078185/17c7d0ea-b76f-43d0-ac7a-80085a78864e/Anurag_AI_ML_Resume.pdf?AWSAccessKeyId=ASIA2F3EMEYERY5T3DC2&Signature=sD0p5YnDshaacpS10XtAcHmqFVo%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEPv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICyfrrKyMAuihgtOt%2FaD81rgxfKEtREyveiPYB3YDYewAiEA2lnImxc%2F9AdhuvEcUT0o4fQNlW%2FECpTVvUt9ew%2BVBAEq%2FAQIw%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARABGgw2OTk3NTMzMDk3MDUiDGHiuJGCoDKxPqkchCrQBH48J8tzx1GHQ2UUK6cZ7005mV%2BF9WAWzWDoK0LiIx%2BypERkSIvnh56Vq6xrbE19MQZXOmUkhPu4TYIg3LTOvO5FmTsWedmV60HFD320A99t8oJ4IGgSIMHYJ6yNN39vADNBBCxi94333o6IfKkUC3SSrsvsbd7SKQ%2BVT79x2kcNeg%2Bop8xmXtpQ6cjHd9MoayrhR3ve3HlbapkPCKx5XegBYWtr9YpfhpWIUbE3TpGiezmRTTInlXTdbmZmSPx7g1MpTxT5TUjRR8eQI1%2F4TqNEp4hFGs0MhIVlA0hjKScRMcCA5vMNj0t3KA7qsAXtfEY%2B1zuVS43jYtVoJoXCtxLr1sI4os4mxdcarX8dU5VmX4lXSqsyxKqWzYkFPsA9mLsXpIzVyujIoNDC28YQJAx9N3wfegEToGkim8KX9sdkhmwPP9OE8Iu2%2BVITgkAkzKj7iCmHg0wq8UxGK8mqjRTqmXGc9kJSGqsOfvUBsCFfMIxyaQprwi%2FOu3FK5iij00W8ozBXbHSvZ%2BVJGt757v0uIQPYhibi1NT3Xv%2B%2FpxkUgurcfgvcaS3WZyDXI4nMtvX9tbjoOpaB5whtS32cvxRYhuLY72%2FHrqPy4U%2BUKOk8qN8lV42vS8vcWvdrDv9rNBxTJKiq%2F3GU3lnHWXwJXH3w54RrpaLdVuP41MUb9JEpG5MZTEGblH%2BbJtWStGEJPSztqlpMjS7UBh2okI6n4i2OXgOGLZNO7LQDF5YTEGvbyAJ01k%2Bb80oaYiyfUjzvbXHj6OPCOnMAxvIFyfKHlJcw%2BY%2BUzgY6mAEHuST7O5o3AMu9pqMTap%2FF0qjDRfFDImnDTpBA7vriqTNxw4bG7Y0H%2BjZ7ezUlD%2BSXFNt%2Fn2niXiheDhYVJxBQ5olRSr5vt3M8fuSlaqGCeBWAcIOqXikBQvzJR1nb49Y6pHyzffAe%2F6cxGLivf6cBsSfrsHh0NCmblmJnV0pzveECNMOCTYjimCLRK9aMrRgeBmNGcDgzGg%3D%3D&Expires=1774521091)
+
+## 📊 LeetCode
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Anurags_007?theme=dark&font=Nunito&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/Anurags_007?theme=dracula&font=JetBrains%20Mono&ext=contest" alt="LeetCode Stats"/>
 </p>
 
----
-
-## 🏆 Certifications
-
-- 🏅 AWS AI & Cloud Training  
-- 🏅 Microsoft Generative AI  
-- 🏅 IBM Prompt Engineering  
-- 🏅 Oracle Database Design  
-- 🏅 Deloitte Technology Simulation  
-
----
-
-## 📫 Connect With Me
+## 🔗 Connect
 
 <p align="center">
-  <a href="https://github.com/Anurag7321-singh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
-  <a href="https://linkedin.com/in/anurag-pratap-singh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:anuragpsingh3135@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"></a>
+  <a href="https://github.com/Anurag7321-singh">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/anurag-pratap-singh">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:anuragpsingh3135@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
-
----
 
 ## ⚡ Fun Fact
 
-💡 I build AI systems that are not just smart, but **impactful 🚀**
+💡 I craft AI that detects autism with **zero missed cases**—because every insight counts! Let's build impactful tech together. 🚀 [dev](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+
+***
+
+<div align="center">Thanks for visiting! ⭐ Star my repos if they help.</div>
