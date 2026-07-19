@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anurag Pratap Singh</h1>
 
-<h3 align="center">🚀 AI/ML Engineer | Deep Learning | Computer Vision | NLP</h3>
+<h3 align="center"> AI/ML Engineer | Deep Learning | Computer Vision | NLP</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%26+ML+Engineer;Deep+Learning+Researcher;Computer+Vision+Developer;Building+Real-World+AI+Systems&center=true&width=500&height=45">
@@ -8,16 +8,16 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
-- 🎓 B.Tech CSE (AI & ML) @ Galgotias University (2023–2027)  
-- 🔬 Researching **Autism Detection (CNN + Vision Transformers + Ensemble)**  
-- ☁️ Exploring **AWS AI & Cloud (Bedrock, Amazon Q)**  
-- 💡 Focused on building **scalable AI solutions**  
+-  B.Tech CSE (AI & ML) @ Galgotias University (2023–2027)  
+-  Researching **Autism Detection (CNN + Vision Transformers + Ensemble)**  
+-  Exploring **AWS AI & Cloud (Bedrock, Amazon Q)**  
+-  Focused on building **scalable AI solutions**  
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,c,mysql,tensorflow,pytorch,opencv,git,github,aws" />
@@ -25,7 +25,7 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 🔹 **AI Virtual Painter** – Real-time gesture drawing (30 FPS)  
 🔹 **Image Captioning** – CNN + LSTM (BLEU: 0.61)  
@@ -33,12 +33,12 @@
 🔹 **EV Demand Prediction** – R²: 0.87  
 🔹 **Recommendation System** – Collaborative filtering  
 
-👉 Explore all:  
+ Explore all:  
 🔗 https://github.com/Anurag7321-singh  
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anurag7321-singh&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -51,7 +51,7 @@
 
 ---
 
-## 🧠 LeetCode Stats
+##  LeetCode Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Anurags_007?theme=dark&font=Nunito&ext=contest" />
@@ -59,17 +59,17 @@
 
 ---
 
-## 🏆 Certifications
+##  Certifications
 
-- 🏅 AWS AI & Cloud Training  
-- 🏅 Microsoft Generative AI  
-- 🏅 IBM Prompt Engineering  
-- 🏅 Oracle Database Design  
-- 🏅 Deloitte Technology Simulation  
+-  AWS AI & Cloud Training  
+-  Microsoft Generative AI  
+-  IBM Prompt Engineering  
+-  Oracle Database Design  
+-  Deloitte Technology Simulation  
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="https://github.com/Anurag7321-singh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
@@ -79,6 +79,4 @@
 
 ---
 
-## ⚡ Fun Fact
 
-💡 I build AI systems that are not just smart, but **impactful 🚀**
