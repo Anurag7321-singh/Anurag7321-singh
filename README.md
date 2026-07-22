@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anurag Pratap Singh</h1>
+<h1 align="center">Hi , I'm Anurag Pratap Singh</h1>
 
 <h3 align="center">
 AI/ML Engineer • Computer Vision • Generative AI • Backend Engineering
@@ -26,7 +26,7 @@ AI/ML Engineer • Computer Vision • Generative AI • Backend Engineering
 
 ---
 
-# 🚀 About Me
+#  About Me
 
 I'm an **AI & Machine Learning undergraduate** passionate about building **production-ready AI applications** that bridge research and real-world deployment.
 
@@ -34,16 +34,16 @@ My interests span **Computer Vision, Deep Learning, Trustworthy AI, Generative A
 
 Currently, I'm focused on:
 
-- 🧠 Computer Vision & Deep Learning
-- 🤖 Generative AI & LLM Applications
-- 🔬 Trustworthy & Robust AI
-- ⚙️ FastAPI Backend Development
-- ☁️ AWS AI & Cloud Technologies
-- 📦 Docker & CI/CD Workflows
+-  Computer Vision & Deep Learning
+-  Generative AI & LLM Applications
+-  Trustworthy & Robust AI
+-  FastAPI Backend Development
+-  AWS AI & Cloud Technologies
+-  Docker & CI/CD Workflows
 
 ---
 
-# 💻 Tech Stack
+#  Tech Stack
 
 ### Languages
 
@@ -81,9 +81,9 @@ Currently, I'm focused on:
 
 ---
 
-# ⭐ Featured Projects
+#  Featured Projects
 
-## 🧩 Autism Spectrum Disorder Detection Platform
+##  Autism Spectrum Disorder Detection Platform
 
 Production-ready AI inference platform featuring:
 
@@ -98,14 +98,14 @@ Production-ready AI inference platform featuring:
 
 **Highlights**
 
-- 🎯 99.07% Accuracy
-- 📈 0.9907 F1-Score
-- 📊 0.9995 AUC-ROC
-- ✅ Zero False Negatives
+-  99.07% Accuracy
+-  0.9907 F1-Score
+-  0.9995 AUC-ROC
+-  Zero False Negatives
 
 ---
 
-## 🛡️ Adversarial Robustness Benchmark
+##  Adversarial Robustness Benchmark
 
 Research-oriented benchmark for evaluating adversarial robustness.
 
@@ -121,7 +121,7 @@ Research-oriented benchmark for evaluating adversarial robustness.
 
 ---
 
-## 🎨 AI Virtual Painter
+##  AI Virtual Painter
 
 Real-time gesture-controlled drawing system using
 
@@ -135,7 +135,7 @@ Real-time gesture-controlled drawing system using
 
 ---
 
-## 🖼️ Image Captioning
+##  Image Captioning
 
 CNN + LSTM based image caption generation.
 
@@ -145,7 +145,7 @@ CNN + LSTM based image caption generation.
 
 ---
 
-## ⚡ EV Charging Demand Prediction
+##  EV Charging Demand Prediction
 
 Machine Learning pipeline for demand forecasting.
 
@@ -155,7 +155,7 @@ Machine Learning pipeline for demand forecasting.
 
 ---
 
-# 📈 GitHub Analytics
+#  GitHub Analytics
 
 <p align="center">
 
@@ -173,7 +173,7 @@ Machine Learning pipeline for demand forecasting.
 
 ---
 
-# 🏆 LeetCode
+#  LeetCode
 
 <p align="center">
 
@@ -183,7 +183,7 @@ Machine Learning pipeline for demand forecasting.
 
 ---
 
-# 📜 Certifications
+#  Certifications
 
 - AWS AI & Cloud (Amazon Bedrock & Amazon Q)
 - Microsoft Generative AI
@@ -193,7 +193,7 @@ Machine Learning pipeline for demand forecasting.
 
 ---
 
-# 🌱 Currently Learning
+#  Currently Learning
 
 - Agentic AI
 - Retrieval-Augmented Generation (RAG)
@@ -205,7 +205,7 @@ Machine Learning pipeline for demand forecasting.
 
 ---
 
-# 📫 Connect With Me
+#  Connect With Me
 
 <p align="center">
 
@@ -213,7 +213,7 @@ Machine Learning pipeline for demand forecasting.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://linkedin.com/in/anurag-pratap-singh">
+<a href="https://www.linkedin.com/in/anurag-pratap-singh-475314280/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
 </a>
 
